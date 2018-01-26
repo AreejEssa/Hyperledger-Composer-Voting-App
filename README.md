@@ -39,7 +39,6 @@
 3. Navigate to business network folder and install the dependencies
 ```
 > cd my-network 
-> npm install> cd my-network 
 > npm install
 ```
 
