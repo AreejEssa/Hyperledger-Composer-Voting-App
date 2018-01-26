@@ -118,6 +118,6 @@ function vote(tx) {
 > composer-rest-server
 ```
 
-Authors
+### Authors
 * [Saif Rehman](https://github.com/SaifRehman)
 * [Areej Essa](https://github.com/AreejEssa/)
