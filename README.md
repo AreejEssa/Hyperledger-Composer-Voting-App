@@ -119,5 +119,5 @@ function vote(tx) {
 ```
 
 ### Authors
-* [Saif Rehman](https://github.com/SaifRehman)
 * [Areej Essa](https://github.com/AreejEssa/)
+* [Saif Rehman](https://github.com/SaifRehman)
