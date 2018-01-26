@@ -53,7 +53,6 @@ namespace org.acme.voting
 participant voter identified by voterID {
   o String voterID
   o String fullName
-  o ifVoted voted
 }
 
 asset ifVoted identified by voterID {
